@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP CLI WooCommerce Wizard
-Plugin URI: https://github.com/montrealist
+Plugin URI: https://github.com/montrealist/wp-cli-woo-activate
 Description: Completes WooCommerce wizard 
 Author: Max Kovalenkov
 Version: 1.0.0
